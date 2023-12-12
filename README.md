@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bar-amit
 - 👀 I’m interested in tech, chess, science, history and many other stuff.
-- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 bar.amit@outlook.com
 
